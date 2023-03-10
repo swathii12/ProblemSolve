@@ -21,7 +21,7 @@ namespace Problemm
             {
                 {"1002",02 },
                 {"1004",05 },
-                {"1007",01 }
+                {"1007",03}
             };
 
             List<string> ConvertedCredentials = new List<string>();
